@@ -13,3 +13,9 @@ a{
     color: black;
     padding: 0 5px;
 }
+p{
+    display: inline-block;
+}
+.x{
+    padding-left: 300px;
+}
