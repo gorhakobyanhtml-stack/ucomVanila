@@ -1,0 +1,15 @@
+.header{
+    background: #fff;
+    border-bottom: 1px solid #eee;
+}
+.logo{
+    height: 32px;
+}
+.nav{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 0 5px;
+}
