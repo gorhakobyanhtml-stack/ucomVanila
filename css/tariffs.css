@@ -12,6 +12,7 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 24px;
 }
+
 .tariffCard {
   background: #fff;
   border-radius: 20px;
@@ -20,10 +21,20 @@
   flex-direction: column;
   justify-content: space-between;
 }
+
 .tariffCardHead {
   background: #8bc34a;
   color: #fff;
   padding: 16px;
   font-weight: bold;
   border-radius: 20px 20px 0 0;
+}
+
+.tariffCardList {
+  list-style: none;
+  padding: 20px;
+}
+
+.tariffCardList li {
+  margin-bottom: 12px;
 }
