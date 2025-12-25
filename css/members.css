@@ -1,0 +1,42 @@
+.title{
+    text-align: center;
+}
+
+.numTitle{
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+h3{
+    padding-left: 70px;
+}
+
+.title{
+    text-align: center;
+}
+h3{
+    padding-left: 70px;
+}
+.members {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 70px;
+}
+
+.member1 {
+    border: 0.5px solid;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+}
+
+.member1 {
+    border: 0.5px solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
