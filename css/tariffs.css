@@ -38,3 +38,25 @@
 .tariffCardList li {
   margin-bottom: 12px;
 }
+
+.tariff-card__footer {
+  padding: 20px;
+  border-top: 1px solid #eee;
+}
+
+.tariff-card__footer .price {
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.tariffCardFooter button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  background: #9be04f;
+  font-weight: bold;
+  cursor: pointer;
+}
