@@ -12,3 +12,11 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 24px;
 }
+.tariffCard {
+  background: #fff;
+  border-radius: 20px;
+  border: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
