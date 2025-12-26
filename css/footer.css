@@ -8,3 +8,6 @@ footer{
     width: 100px;
     padding-left: 700px;
 }
+.footerLogo, .footerLongText{
+    padding-left: 70px;
+}
